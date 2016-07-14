@@ -8,7 +8,6 @@ npm install
 
 ## 运行
 
-* node chat.js
-* http://localhost:3000
+* node run start
 
 
