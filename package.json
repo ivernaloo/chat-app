@@ -1,0 +1,23 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "2016.6.16",
+  "main": "app.js",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivernaloo/chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivernaloo/chat-app/issues"
+  },
+  "homepage": "https://github.com/ivernaloo/chat-app#readme"
+}
